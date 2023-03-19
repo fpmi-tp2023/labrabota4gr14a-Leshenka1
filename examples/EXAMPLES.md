@@ -1,4 +1,4 @@
-#How to use SQLite in C/C++ programs.
+# How to use SQLite in C/C++ programs.
 ## overview
 there are examples of code on C with different sql commands
 ##building
