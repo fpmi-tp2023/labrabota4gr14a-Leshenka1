@@ -1,3 +1,3 @@
 C code with different sql commands
 
-Other information u can find in EXAMPLE.md file.
+Other information u can find in EXAMPLE.md file in example folder.
